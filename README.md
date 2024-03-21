@@ -1,1 +1,1 @@
-- For running locally, download and then nodejs is installed then `npm install` then `npm run dev`
+- For running locally, download and then if nodejs is installed then `npm install` then `npm run dev`
